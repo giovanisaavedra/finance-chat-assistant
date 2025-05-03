@@ -1,0 +1,13 @@
+# Ignorar arquivos e pastas comuns em projetos Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Ignorar o arquivo de variáveis de ambiente
+.env
+
+# Ignorar arquivos de ambiente virtual (se estiver na pasta do projeto)
+venv/
+.env/
+.env.bak/
