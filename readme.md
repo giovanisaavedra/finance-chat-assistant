@@ -1,4 +1,4 @@
-# 📉 Chat Financeiro — LangChain + LangGraph + Yahoo Finance
+# 📉 Finance Chat Assistant — LangChain + LangGraph + Yahoo Finance
 
 A professional-grade AI assistant for querying real-time stock prices using the power of **LangChain**, **LangGraph**, and **yfinance**.
 Built with extensibility and clean code practices in mind, this project demonstrates how to integrate tool-calling agents using OpenAI models.
