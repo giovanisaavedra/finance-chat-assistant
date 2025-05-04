@@ -132,4 +132,4 @@ Pull requests are welcome. For major features, please open an issue first to dis
 This project was built as part of a Python and AI learning journey focused on building professional-grade tools from scratch.
 It serves both as a demonstration of intelligent agent design using LangChain and as a portfolio reference in clean, secure, and tested Python code.
 
-> Built with care by \[Your Name] — [LinkedIn](https://linkedin.com) | [GitHub](https://github.com/YOUR_USERNAME)
+> Built with care by Giovani Saavedra 
